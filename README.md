@@ -3,6 +3,8 @@
 Participate on: https://www.kaggle.com/c/sentiment-analysis-on-imdb-movie-reviews
 
 ![Alt text](https://raw.githubusercontent.com/ichaparroc/IMDb-Movie-Review/master/figure2.png)
+Red = Train
+Blue = Test
 
 ## FILE: Logistic Regression - Semana 2 - Israel Chaparro.ipynb
 Implementation of Logistic Regresion in solo python algorithm with:
