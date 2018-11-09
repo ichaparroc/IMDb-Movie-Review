@@ -12,3 +12,10 @@ Implementation of Logistic Regresion in solo python algorithm with:
 - Prepare Data (Create features)
 - Splitting Data (80:20 split for train and validation).
 - Linear Regression in solo python algorithm (0.73195 in validation, 0.7329 in test).
+
+## FILE: Neural Networks - Semana 3 - Israel Chaparro.ipynb
+Implementation of Neural Network in solo python algorithm with:
+- Get Data
+- Prepare Data (Create features) with word2vec, corpus creation and vector embeddings.
+- Splitting Data (80:20 split for train and validation).
+- Neural Network train in solo python algorithm (0.73195 in validation, 0.8668 in test).
